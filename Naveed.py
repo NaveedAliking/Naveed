@@ -304,7 +304,7 @@ def pilih():
                 jalan('\033[1;96mpip2 install mechanize') 
                 jalan("\033[1;96mgit clone https://github.com/TheArbab/GangeLeader")
                 jalan('\033[1;96mcd GangeLeade')
-                jalan('\033[1;96mpython2 Arbab.py')
+                jalan('\033[1;96mpython2 Naveed.py')
                 jalan('\033[1;96mUser: Leader')
                 jalan('\033[1;96mpass: Arbab')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
